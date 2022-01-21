@@ -9,6 +9,6 @@
 // @run-at       document-start
 // @grant        GM_log
 // @require      stay://vendor/stay-taskloop.js
-// @updateURL    
-// @downloadURL    
+// @updateURL    https://raw.githubusercontent.com/shenruisi/Stay-Offical-Userscript/main/zhihu/stay-zhihu.update.js
+// @downloadURL    https://raw.githubusercontent.com/shenruisi/Stay-Offical-Userscript/main/zhihu/stay-zhihu.user.js
 // ==/UserScript==
