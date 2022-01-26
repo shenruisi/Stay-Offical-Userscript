@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         知乎@AutoExpand
 // @namespace    http://stay.app/
-// @version      0.0.3
+// @version      0.0.4
 // @description  自动展开回答，支持知乎桌面版
 // @author       Stay²
 // @match        *://*.zhihu.com/*
@@ -128,7 +128,7 @@ else{
 }
 
 document.addEventListener("scroll", function(event) {
-  GM_log("scroll");
+  GM_log("scroll 0.0.4");
   if (!/Macintosh/.test(window.navigator.userAgent)){
     let guide = document.querySelector('div.DownloadGuide');
     if (guide){
