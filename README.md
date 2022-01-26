@@ -14,11 +14,13 @@
 | 新浪新闻@AutoExpand | 自动展开新浪新闻文章 | [Get](https://raw.githubusercontent.com/shenruisi/Stay-Offical-Userscript/main/sina/stay-sina.user.js) |
 | 腾讯新闻@AutoExpand | 自动展开腾讯新闻文章 | [Get](https://raw.githubusercontent.com/shenruisi/Stay-Offical-Userscript/main/newsqq/stay-newsqq.user.js) |
 | 百度贴吧@AutoExpand | 自动展开百度贴吧帖子 | [Get](https://raw.githubusercontent.com/shenruisi/Stay-Offical-Userscript/main/tieba/stay-tieba.user.js) |
+| 网易@AutoExpand | 自动展开网易文章，解除仅 App 阅读限制 | [Get](https://raw.githubusercontent.com/shenruisi/Stay-Offical-Userscript/main/netease/stay-netease.user.js) |
 
 ## Available on Stay
 |  Name | Description | Link |
 | :---- | :---- | :----: |
 | Login reminder popup remover | Removes the nagging login popups and banners from mobile and desktop versions of Facebook, Instagram, Reddit, Twitter, Quora, Ask.fm, VK, Pinterest and from the mobile version of Youtube. | [Get](https://greasyfork.org/scripts/395497-login-reminder-popup-remover/code/Login%20reminder%20popup%20remover.user.js#bypass=true) |
+| Remove Google Redirection | Remove Google Redirection | [Get](https://github.com/kodango/Remove-Google-Redirection) |
 
 
 
