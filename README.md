@@ -1,4 +1,5 @@
 # Stay-Offical-Userscript
+[Get the userscript manager **Stay²**](https://github.com/shenruisi/Stay)
 
 ## Developed by Stay
 |  Name | Description | Link |
