@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         知乎@AutoExpand
 // @namespace    http://stay.app/
-// @version      0.0.4
+// @version      0.0.5
 // @description  自动展开回答，支持知乎桌面版
 // @author       Stay²
 // @match        *://*.zhihu.com/*
