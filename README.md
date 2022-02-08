@@ -22,6 +22,7 @@
 | :---- | :---- | :----: |
 | Login reminder popup remover | Removes the nagging login popups and banners from mobile and desktop versions of Facebook, Instagram, Reddit, Twitter, Quora, Ask.fm, VK, Pinterest and from the mobile version of Youtube. | [Get](https://greasyfork.org/scripts/395497-login-reminder-popup-remover/code/Login%20reminder%20popup%20remover.user.js#bypass=true) |
 | Remove Google Redirection | Remove Google Redirection | [Get](https://github.com/kodango/Remove-Google-Redirection) |
+| Sci-hub button | Add sci-hub button on article page. Add sci-hub button after article link. Support Google scholar, bing academic and baidu xueshu. Jump CNKI English article to Chinese article. | [Get](https://greasyfork.org/scripts/370246-sci-hub-button/code/Sci-hub%20button.user.js) |
 
 
 
