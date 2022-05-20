@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         百度@PreventAppJump
 // @namespace    http://stay.app/
-// @version      0.0.4
+// @version      0.0.5
 // @description  防止从Baidu结果页跳转到其他App
 // @author       Stay²
 // @match        *://*.baidu.com/*
