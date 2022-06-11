@@ -8,6 +8,7 @@
 // @include      http://*
 // @include      https://*
 // @grant        GM_log
+// @downloadURL  https://raw.githubusercontent.com/shenruisi/Stay-Offical-Userscript/main/darkmode/darkmodev2.user.js
 // @run-at       document-start
 // ==/UserScript==
 
